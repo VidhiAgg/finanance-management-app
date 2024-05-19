@@ -1,0 +1,22 @@
+.main-window{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.form-class{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.close-btn{
+    display: flex;
+    position: absolute;
+    top: 2%;
+    right: 3%;
+
+}
+.submit-btn{
+    display: flex;
+    flex-direction: column;
+    
+}

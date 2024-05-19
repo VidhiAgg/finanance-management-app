@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.header h1, .navLink{
+    color: white;
+}
+.navLink{
+text-decoration: none;
+font-weight: 700;
+}
